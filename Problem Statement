@@ -1,0 +1,5 @@
+Urban areas are increasingly affected by the Urban Heat Island (UHI) effect, where dense infrastructure and heat-absorbing materials cause cities to retain more heat than surrounding rural regions. Traditional methods of analyzing urban heat patterns rely on thermal sensors or manual surveys, which are often costly, time-consuming, and limited in scale.
+
+There is a need for a cost-effective, AI-based solution that can analyze satellite or aerial images to identify and classify roof types—a major factor influencing urban heat retention. By understanding the distribution of roof materials such as metal, concrete, terracotta, and green roofs, we can estimate heat absorption levels and highlight heat-prone zones across cities.
+
+This project aims to develop a computer vision system that classifies roof types and generates an Urban Heat Sustainability Index (UHSI) to support data-driven, sustainable urban planning and climate-resilient infrastructure design.
